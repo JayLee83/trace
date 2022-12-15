@@ -1,4 +1,5 @@
 # trace
+```
 <!DOCTYPE html>
 <html>
 	<head>
@@ -58,7 +59,8 @@
 		
 	</body>
 </html>
-
+```
+```
 @charset "EUC-KR";
 
 *{
@@ -139,3 +141,4 @@ padding: 10px 30px;
 border: black solid 1px;
 padding: 10px 30px;
 }
+```
